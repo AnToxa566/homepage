@@ -1,6 +1,6 @@
 # Homepage
 - [Homepage Site Link](https://antoxa566.github.io/homepage/)
-- [Author's Portfolio Link](https://antoxa566.github.io/homepage/)
+- [Author's Portfolio Link](https://antoxa566.github.io/resume/)
 
 ## Description
 This project is a website hosted on GitHub dedicated to practicing of git commands. The website is built using HTML, CSS and follows the BEM (Block-Element-Modifier) naming methodology for a structured and maintainable codebase.
